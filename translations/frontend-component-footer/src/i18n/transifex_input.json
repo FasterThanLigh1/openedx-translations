@@ -7,7 +7,11 @@
   "footer.languageForm.select.label": "Choose Language",
   "footer.languageForm.submit.label": "Apply",
   "footer.edxLinks.about": "About",
-  "footer.edxLinks.business": "edX for Business",
+  "footer.edxLinks.aboutUs": "About Us",
+  "footer.edxLinks.termsOfService": "Terms of Service",
+  "footer.edxLinks.privacyPolicy": "Privacy Policy",
+  "footer.edxLinks.contactUs": "Contact Us",
+  "footer.edxLinks.business": "edX for Businesys",
   "footer.edxLinks.affiliates": "Affiliates",
   "footer.edxLinks.openEdx": "Open edX",
   "footer.edxLinks.careers": "Careers",
@@ -41,3 +45,4 @@
   "authoring.footer.accessibilityRequest.link.label": "Accessibility Accomodation Request",
   "authoring.footer.trademark.message": "edX and Open edX, and the edX and Open edX logos are registered trademarks of"
 }
+
