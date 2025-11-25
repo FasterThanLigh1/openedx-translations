@@ -33,6 +33,8 @@
   "footer.logo.altText": "Được cung cấp bởi Open edX",
   "footer.logo.ariaLabel": "Trang chủ edX",
   "footer.ariaLabel": "Chân trang",
+  "footer.poweredby.text": "Được cung cấp bởi:",
+  "footer.copyright.text": "Bản quyền ©{year}. Bảo lưu mọi quyền.",
   "authoring.footer.help.openHelp.button.label": "Bạn đang tìm kiếm trợ giúp với Studio?",
   "authoring.footer.help.closeHelp.button.label": "Ẩn trợ giúp Studio",
   "authoring.footer.help.edxDocumentation.button.label": "Tài liệu edX",

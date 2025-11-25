@@ -33,6 +33,8 @@
   "footer.logo.altText": "Powered by Open edX",
   "footer.logo.ariaLabel": "edX Home",
   "footer.ariaLabel": "Page Footer",
+  "footer.poweredby.text": "Powered by:",
+  "footer.copyright.text": "Copyrights ©{year}. All Rights Reserved.",
   "authoring.footer.help.openHelp.button.label": "Looking for help with Studio?",
   "authoring.footer.help.closeHelp.button.label": "Hide Studio help",
   "authoring.footer.help.edxDocumentation.button.label": "edX documentation",
