@@ -377,7 +377,7 @@
   "progress.certificateStatus.upgradeHeader": "Theo đuổi chứng chỉ đã xác minh",
   "progress.certificateStatus.viewableButton": "Xem chứng chỉ",
   "progress.completion.body": "Phần trăm hoàn thành được tính dựa trên tất cả các phần trong khóa học này.",
-  "progress.completion.donut.label": "Hoàn thành và được chấm điểm",
+  "progress.completion.donut.label": "Hoàn thành",
   "progress.completion.donut.percentComplete": "Đã hoàn thành {percent}%",
   "progress.completion.donut.percentIncomplete": "Chưa hoàn thành {percent}%",
   "progress.completion.donut.percentLocked": "Bị khóa {percent}%",
