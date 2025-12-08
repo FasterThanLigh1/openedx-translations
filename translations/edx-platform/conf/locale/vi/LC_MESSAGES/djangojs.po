@@ -11739,3 +11739,19 @@ msgstr "Bạn hiện đang chia sẻ một hồ sơ hạn chế."
 #: openedx/features/learner_profile/static/learner_profile/templates/section_two.underscore:7
 msgid "This learner is currently sharing a limited profile."
 msgstr "Người học này hiện đang chia sẻ một hồ sơ hạn chế."
+
+#: Course navigation tabs
+msgid "Progress"
+msgstr "Tiến độ"
+
+msgid "Bookmarks"
+msgstr "Dấu trang"
+
+msgid "Updates"
+msgstr "Cập nhật"
+
+msgid "My Courses"
+msgstr "Khóa học của tôi"
+
+msgid "Discover"
+msgstr "Khám phá"
