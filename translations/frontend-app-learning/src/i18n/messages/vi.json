@@ -279,7 +279,7 @@
   "learning.outline.incompleteSection": "Chưa hoàn thành phần",
   "learning.outline.learnMore": "Tìm hiểu thêm",
   "learning.outline.resume": "Tiếp tục khóa học",
-  "learning.outline.resumeBlurb": "Bắt đầu từ nơi bạn đã rời đi. {resumeLink}",
+  "learning.outline.resumeBlurb": "Bắt đầu từ nơi bạn đã rời đi.",
   "learning.outline.sequence-due-date-not-set": "{description}",
   "learning.outline.sequence-due-date-set": "{description} đến hạn {assignmentDue}",
   "learning.outline.setGoal": "Đặt mục tiêu",
@@ -469,5 +469,11 @@
   "tours.weeklyGoalsCheckpoint.title": "Đặt mục tiêu khóa học",
   "tray.close.button": "Đóng khay",
   "unit.bookmark.button.add.bookmark": "Đánh dấu trang này",
-  "unit.bookmark.button.remove.bookmark": "Đã đánh dấu"
+  "unit.bookmark.button.remove.bookmark": "Đã đánh dấu",
+  "edx.bookmarks": "Dấu trang",
+  "edx.tool.verified_upgrade": "Nâng cấp đã xác minh",
+  "edx.tool.financial_assistance": "Hỗ trợ tài chính",
+  "edx.calendar-sync": "Đồng bộ lịch",
+  "edx.updates": "Cập nhật",
+  "edx.reviews": "Đánh giá"
 }

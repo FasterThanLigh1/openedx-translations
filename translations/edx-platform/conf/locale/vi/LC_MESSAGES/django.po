@@ -3625,7 +3625,7 @@ msgstr ""
 #: lms/templates/wiki/base.html:6
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:27
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: lms/djangoapps/course_wiki/plugins/course_app.py:32
 msgid ""
@@ -3926,7 +3926,7 @@ msgstr ""
 #: cms/templates/textbooks.html:64 cms/templates/textbooks.html:70
 #: cms/templates/widgets/header.html:138
 msgid "Textbooks"
-msgstr ""
+msgstr "Sách giáo khoa"
 
 #: lms/djangoapps/courseware/plugins.py:75
 msgid ""
@@ -3983,11 +3983,11 @@ msgstr "Khóa học"
 #: lms/djangoapps/courseware/tabs.py:63
 #: lms/templates/courseware/syllabus.html:21
 msgid "Syllabus"
-msgstr ""
+msgstr "Giáo trình"
 
 #: lms/djangoapps/courseware/tabs.py:307
 msgid "Dates"
-msgstr ""
+msgstr "Ngày tháng"
 
 #: lms/djangoapps/courseware/views/index.py:231
 #, python-brace-format
@@ -7608,7 +7608,7 @@ msgstr ""
 #: openedx/core/djangoapps/course_live/plugins.py:25
 #: openedx/core/djangoapps/course_live/tab.py:47
 msgid "Live"
-msgstr ""
+msgstr "Trực tiếp"
 
 #: openedx/core/djangoapps/course_live/plugins.py:26
 msgid "Enable in-platform video conferencing by configuring live"
@@ -17198,7 +17198,7 @@ msgstr ""
 
 #: cms/templates/widgets/header.html:98 cms/templates/widgets/header.html:103
 msgid "Outline"
-msgstr ""
+msgstr "Đề cương"
 
 #: cms/templates/widgets/header.html:148
 msgid "Videos"
@@ -19973,7 +19973,7 @@ msgstr ""
 
 #: lms/templates/courseware/courseware-error.html:8
 msgid "Courseware"
-msgstr ""
+msgstr "Tài liệu khóa học"
 
 #: lms/templates/courseware/courseware-error.html:29
 #: lms/templates/courseware/error-message.html:9
