@@ -3,10 +3,10 @@
 # Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2018.
-# 
+#
 # Translators:
 # Brian Smith, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: edx-ora2\n"
@@ -3016,3 +3016,19 @@ msgstr "Số bảng xếp hạng không hợp lệ."
 #: xblock/utils/validation.py:392
 msgid "The submission format is invalid."
 msgstr "Định dạng gửi không hợp lệ."
+
+#: Custom additions
+msgid "Course"
+msgstr "Khóa học"
+
+msgid "Progress"
+msgstr "Tiến độ"
+
+msgid "Teams"
+msgstr "Đội"
+
+msgid "Bookmarks"
+msgstr "Dấu trang"
+
+msgid "Updates"
+msgstr "Cập nhật"
